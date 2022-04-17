@@ -1,0 +1,23 @@
+body {
+    background-image: url(../assets/img/silver.jpg);
+    background-image: none;
+    background-color: cornflowerblue;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+nav {
+    background-color: silver;
+    text-align: center;
+}
+a {
+    padding: 20px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+}
+a:link, a:visited {
+    color: cornflowerblue;
+}
