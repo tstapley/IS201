@@ -21,3 +21,9 @@ a {
 a:link, a:visited {
     color: cornflowerblue;
 }
+.button {
+    background-color: white;
+}
+.mid {
+    text-align: center;
+}
